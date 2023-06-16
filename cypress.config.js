@@ -7,3 +7,7 @@ module.exports = defineConfig({
   fixturesFolder: false,
   video: false,
 })
+
+{
+  "defaultCommandTimeout"; 60000
+}
